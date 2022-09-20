@@ -185,7 +185,7 @@ p:hover{
   justify-content: space-between;
 }
 
-/* @media (max-width: 940px) {
+@media (max-width: 940px) {
   main {
     max-width: 25em;
   }
@@ -226,4 +226,4 @@ p:hover{
   hr{
       margin-bottom: 0;
   }
-} */
+}
